@@ -44,8 +44,8 @@ oder nur vor dem innerlichen Auge existieren.
 _________________________________________________________________________________________________
 Hier die Links zu dem Programm und dem Fragebogen:
 
-Programm: https://anandrea.github.io/Intervalle/index.html
+Programm:
 
-Fragebogen: https://survey42.hs-emden-leer.de/index.php/745494?newtest=Y&lang=de
+Fragebogen:
 
 Vielen Dank für die Teilnahme!
