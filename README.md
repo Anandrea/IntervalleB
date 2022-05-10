@@ -46,6 +46,6 @@ Hier die Links zu dem Programm und dem Fragebogen:
 
 Programm: https://anandrea.github.io/Intervalle_B/index.html
 
-Fragebogen:
+Fragebogen: https://survey42.hs-emden-leer.de/index.php/117536?newtest=Y&lang=de
 
 Vielen Dank für die Teilnahme!
